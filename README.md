@@ -1,7 +1,9 @@
 # SANDER-MARTINEZ
 ## Diplomado Ciberseguridad y Ciberdefensa
 ### Anticipacion Amenzas y Gestion de Riesgos
-#### Defensa en ProfundidadDEFENSA EN PROFUNDIDAD
+#### Defensa en Profundidad
+
+DEFENSA EN PROFUNDIDAD
 
 El modelo de Defensa en Profundidad es una estrategia de seguridad que se basa en la implementación de múltiples capas de protección para salvaguardar los activos de una organización, especialmente los datos y sistemas informáticos. Su origen se remonta a la terminología militar, donde se utilizan varias líneas defensivas consecutivas para desgastar y ralentizar al enemigo, en lugar de depender de una única y fuerte barrera.
 
